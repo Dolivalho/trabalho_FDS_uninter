@@ -24,12 +24,12 @@ Para visualizar a página:
 
 1. Baixe ou clone este repositório:
 ```bash
-git clone https://github.com/Dolivalho/nome-do-repositorio.git
+git clone https://github.com/Dolivalho/trabalho_FDS_uninter.git
 ```
 
 2. Abra o arquivo `index.html` diretamente em seu navegador (não requer servidor).
 
-Alternativamente, você pode acessar a versão hospedada via GitHub Pages, através do link: .
+Alternativamente, você pode acessar a versão hospedada via GitHub Pages, através do link: https://dolivalho.github.io/trabalho_FDS_uninter/
 
 
 ## Licença
